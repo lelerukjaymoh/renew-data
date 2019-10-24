@@ -1,4 +1,6 @@
-renewdata is a simple android application created using python to automate tasks.
+### Renew data bundles subscription
+
+Renewdata is a simple android application created using python to automate tasks.
 
 Yah an android application done in python! This is made possible by use of beeware and Africa's talking APIs
 
@@ -8,5 +10,7 @@ time the next day thus ensuring you renew you data in time to prevent it from ex
 
 I chose beeware for my love for python :smile:
 
+##### Stopped working on beeware projects since they had lots of errors. 😔
 
-### Stopped working on beeware projects since they had lots of errors. 😔
+Decided to learn a bit of Java to build native applications
+
